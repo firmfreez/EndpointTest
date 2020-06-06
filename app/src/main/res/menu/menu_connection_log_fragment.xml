@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/start"
+        android:icon="@drawable/ic_menu_play_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/start"/>
+    <item
+        android:id="@+id/pause"
+        android:icon="@drawable/ic_menu_pause_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/pause"/>
+    <item
+        android:id="@+id/stop"
+        android:icon="@drawable/ic_menu_stop_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/stop"/>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_menu_settings_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_menu_share_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/share"/>
+
+    <item
+        android:id="@+id/clear"
+        android:icon="@drawable/ic_menu_delete_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/clear_log"/>
+
+</menu>

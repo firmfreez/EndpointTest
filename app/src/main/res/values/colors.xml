@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="status_ok_default">#2E7D32</color>
+    <color name="status_warning_default">#FF8F00</color>
+    <color name="status_bad_default">#C62828</color>
+</resources>
